@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root{
+    --primary-ff: 'Roboto', sans-serif;
+}
+*{
+    font-family: var(--primary-ff);
+}
+card{
+    background-color: beige !important;
+}
+body{
+    background-image: url("https://ninjavoltage.bn-ent.net/images/bg_main.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
